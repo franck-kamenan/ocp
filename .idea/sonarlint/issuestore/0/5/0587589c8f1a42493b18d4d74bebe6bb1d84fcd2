@@ -1,0 +1,14 @@
+
+:
+java:S1659"Declare "y" on a separate line.(±šß¯ùÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "p".(äâáÎøÿÿÿÿ
+A
+java:S1481"&Remove this unused "p" local variable.(äâáÎøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ª‘òùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(®·Š®ùÿÿÿÿ
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¥²¾¬8Ò¯ø¿©0
+@
+java:S1068"%Remove this unused "x" private field.(±šß¯ùÿÿÿÿ
+@
+java:S1068"%Remove this unused "y" private field.(±šß¯ùÿÿÿÿ

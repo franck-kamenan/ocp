@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ìø¨û
+N	java:S106"9Replace this use of System.out or System.err by a logger.(É®¥¾
+]	java:S125"<This block of commented-out lines of code should be removed.(å¼–¶øÿÿÿÿ8¢…áä©0
+]	java:S125!"<This block of commented-out lines of code should be removed.(Æœ¥Ñýÿÿÿÿ8ø›âä©0
+X	java:S125#"<This block of commented-out lines of code should be removed.(ÏÓÊà8œÕàä©0
+B
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8ø›âä©0
+D
+java:S2189""Add an end condition to this loop.(ŠÑ›ƒýÿÿÿÿ8ˆœâä©0

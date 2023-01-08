@@ -1,0 +1,13 @@
+
+:
+java:S1659"Declare "y" on a separate line.(±šß¯ùÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(òž¼ùûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±‹Þ‚úÿÿÿÿ
+J
+java:S1854"5Remove this useless assignment to local variable "b".(µ‘²Z
+Q
+java:S1854"5Remove this useless assignment to local variable "a".(“ƒ¸z8ì”ã‰¤0
+;
+java:S1481"&Remove this unused "a" local variable.(“ƒ¸z
+B
+java:S1481"&Remove this unused "b" local variable.(µ‘²Z8”³ã‰¤0
